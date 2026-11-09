@@ -1,0 +1,6 @@
+input.txt
+*.out
+*.o
+/target
+__pycache__/
+.DS_Store
